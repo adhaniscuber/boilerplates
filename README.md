@@ -14,7 +14,7 @@ Boilerplates are a collection of personal boilerplates or personal templetes. Co
 
 
 
- **[React - Twin](https://github.com/adhaniscuber/boilerplates/tree/react-templete-2)**
+ **[React - Twin](https://github.com/adhaniscuber/boilerplates/tree/react-templete-2)** - TBA
 
  - React
  - Webpack
@@ -24,7 +24,7 @@ Boilerplates are a collection of personal boilerplates or personal templetes. Co
 
 
 
- **[NextJS - Twin](https://github.com/adhaniscuber/boilerplates/tree/react-templete-3)**
+ **[NextJS - Twin](https://github.com/adhaniscuber/boilerplates/tree/react-templete-3)** - TBA
 
  - React
  - NextJS
